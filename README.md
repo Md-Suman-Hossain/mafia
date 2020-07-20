@@ -1,4 +1,4 @@
-# All Commands BlackMafia
+# All Commands Mafia box=2 
 
 
 ⭕No 1
@@ -13,6 +13,6 @@ git clone https://github.com/lovehacker404/World
 cd World
 python2 Cloning.py
 
-User: Black
-pass: Mafia
+User: suman
+pass: suman11
 
