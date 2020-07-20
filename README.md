@@ -9,8 +9,8 @@ pkg install python2
 pkg install git
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/lovehacker404/World
-cd World
+git clone https://github.com/Md-Suman-Hossain/mafia
+cd mafia
 python2 Cloning.py
 
 User: suman
